@@ -1,0 +1,1 @@
+pip install pandas sqlalchemy pyodbc prophet plotly numpy matplotlib jupyter mlxtend
